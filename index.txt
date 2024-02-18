@@ -8,3 +8,4 @@ red
 23423455
 green
 asdasdasd
+console.log()

@@ -3,4 +3,3 @@ blue
 car
 food
 green
-red

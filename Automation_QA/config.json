@@ -1,0 +1,7 @@
+{
+    "expectedPageTitle": "Swag Labs",
+    "expectedUsernameFieldPlacerholder": "Username",
+    "expectedPasswordFieldPlaceholder": "Password",
+    "expectedLoginButtonText": "Login",
+    "expectedLoginUrl": "https://www.saucedemo.com/"
+}
